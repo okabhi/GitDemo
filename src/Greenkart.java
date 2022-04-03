@@ -32,6 +32,7 @@ public class Greenkart {
 		System.out.println(driver.findElement(By.cssSelector("span.promoInfo")).getText());
 		
 		//driver.findElement(By.xpath("//button[contains(text(),'Place Order']")).click();
+	    System.out.println("ok this is new editied file for git hub");
 		
 		
 	}
